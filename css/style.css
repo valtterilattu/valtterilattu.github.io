@@ -20,6 +20,14 @@ height: 100vh;
 .nav-links {
 	padding: .4rem 1rem;
 }
+.navbar-logo{
+	font-size: 1.25rem;
+line-height: inherit;
+white-space: nowrap;
+display: flex;
+margin: auto auto 0;
+padding: .5%;
+}
 
 .item {
 	margin-bottom: 5%;
