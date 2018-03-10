@@ -20,3 +20,18 @@ height: 100vh;
 .nav-links {
 	padding: .4rem 1rem;
 }
+
+.item {
+	margin-bottom: 5%;
+display: flex;
+}
+.item-content{
+	margin-right: auto;
+}
+.item-time {
+	min-width: 18%;
+	text-align: right;
+}
+.item-header{
+	margin: 0;
+}
