@@ -35,3 +35,10 @@ display: flex;
 .item-header{
 	margin: 0;
 }
+
+.item-subheading{
+	text-transform: uppercase;
+	font-weight: 500;
+	font-family: inherit;
+	color: #858a8f;
+}
