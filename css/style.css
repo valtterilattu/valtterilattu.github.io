@@ -63,11 +63,11 @@ list-style: none;
 	margin-right: 1%;
 }
 
-.fa-linkedin a {
+.fa-linkedin {
 	font-size: 30px;
 	color: #46484a;
 }
-.fa-github a {
+.fa-github {
 	font-size: 30px;
 	color: #46484a;
 }
