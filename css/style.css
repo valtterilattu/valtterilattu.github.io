@@ -83,3 +83,7 @@ margin-top: auto;
 .info-text {
 	margin-bottom: 2.8rem;
 }
+
+.my-info h1 {
+	font-size: 60px;
+}
