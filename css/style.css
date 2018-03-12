@@ -10,6 +10,11 @@ height: 100vh;
 }
 #about {
 	background-image: url("/images/background.jpg");
+	background-size: cover;
+border-top: 0;
+background-repeat: no-repeat;
+margin-bottom: 0;
+background-position: top center;
 }
 #navigation {
 	align-items: flex-start;
