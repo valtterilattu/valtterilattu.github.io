@@ -8,7 +8,9 @@ flex-direction: column;
 width: 18rem;
 height: 100vh;
 }
-
+#about {
+	background-image: url("/images/background.jpg");
+}
 #navigation {
 	align-items: flex-start;
 flex-grow: 0;
