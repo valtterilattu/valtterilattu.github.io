@@ -148,3 +148,10 @@ margin-top: auto;
     color: #fff;
     top: 5px;
 }
+.bg-primary {
+    color: #fff;
+    background-color: #aa5736 !important;
+}
+.text-primary {
+    color: #aa5736 !important;
+}
