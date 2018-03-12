@@ -96,8 +96,8 @@ margin-top: auto;
 }
 
 .profile-img {
-	    max-width: 10rem;
-    max-height: 10rem;
+	    max-width: 13rem;
+    max-height: 13rem;
     border: .5rem solid rgba(255,255,255,.2);
     border-radius: 50%;
 }
