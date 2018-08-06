@@ -1,8 +1,11 @@
 .nav-wrapper {
     width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
+padding: 6px 0;
+position: fixed;
+top: 0;
+left: 0;
+background-color: transparent;
+z-index: 20;
 }
 #about {
 background-image: url("/images/background.jpg");
