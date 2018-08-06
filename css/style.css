@@ -32,6 +32,9 @@ margin-bottom: auto;
     color: #ddd;
     text-transform: uppercase;
 }
+.navbar-nav.scrolled > li > a {
+	color: #000;
+}
 .navbar-fixed.scrolled {
   background-color: #fff !important;
   border-bottom: 1px solid #f0f0f0;
