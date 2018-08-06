@@ -25,11 +25,23 @@ margin-bottom: auto;
 .name {
 	text-align: center;
 }
+
+.navbar-nav > li > a {
+    position: relative;
+    font-size: 13px;
+    color: #ddd;
+    text-transform: uppercase;
+}
+
 .nav-wrapper .nav > li > a:hover, .nav-wrapper .nav > li > a.active {
     background-color: transparent;
 }
 #experience {
 	background-color: #f6f6f6;
+}
+
+#experience h2 {
+	text-align: center;
 }
 #about {
 	padding: 100px 0;
