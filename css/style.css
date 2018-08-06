@@ -32,7 +32,11 @@ margin-bottom: auto;
     color: #ddd;
     text-transform: uppercase;
 }
-
+.navbar-fixed.scrolled {
+  background-color: #fff !important;
+  border-bottom: 1px solid #f0f0f0;
+  transition: background-color 200ms linear;
+}
 .nav-wrapper .nav > li > a:hover, .nav-wrapper .nav > li > a.active {
     background-color: transparent;
 }

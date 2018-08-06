@@ -10,3 +10,10 @@ $('#return-to-top').click(function() {
         scrollTop : 0
     }, 500);
 });
+
+$(function () {
+  $(document).scroll(function () {
+	  var $nav = $(".navbar-fixed");
+	  $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height());
+	});
+});
