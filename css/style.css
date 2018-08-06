@@ -125,6 +125,9 @@ text-align: center;
 .service {
 	text-align: center;
 }
+.information {
+	width: 70%;
+}
 .my-info {
 	margin-bottom: auto;
 margin-top: auto;
