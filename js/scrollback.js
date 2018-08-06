@@ -1,12 +1,12 @@
-$(document).ready(function(){       
+jQuery(document).ready(function(){       
    var scroll_start = 0;
-   var home = $('#home');
+   var home = jQuery('#home');
    var offset = home.offset();
     if (home.length){
-   $(document).scroll(function() { 
+   jQuery(document).scroll(function() { 
       scroll_start = $(this).scrollTop();
       if(scroll_start > offset.top) {
-          $(".nav-wrapper").css('background-color', '#f0f0f0');
+          jQuery(".nav-wrapper").css('background-color', '#f0f0f0');
        }
    });
     }
