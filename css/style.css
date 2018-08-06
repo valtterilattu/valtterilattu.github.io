@@ -35,6 +35,11 @@ margin-bottom: auto;
 .navbar-nav.scrolled > li > a {
 	color: #000;
 }
+.footer {
+	padding-bottom: 50px;
+padding-top: 50px;
+background-color: #f6f6f6;
+}
 .navbar-fixed.scrolled {
   background-color: #fff !important;
   border-bottom: 1px solid #f0f0f0;
