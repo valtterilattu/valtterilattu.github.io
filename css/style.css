@@ -22,6 +22,18 @@ flex-grow: 0;
 width: 100%;
 margin-bottom: auto;
 }
+.name {
+	text-align: center;
+}
+.nav-wrapper .nav > li > a:hover, .nav-wrapper .nav > li > a.active {
+    background-color: transparent;
+}
+#experience {
+	background-color: #f6f6f6;
+}
+#about {
+	padding: 100px 0;
+}
 .section {
 	padding: 3rem;
 	border-bottom: 1px solid #ced1d4;
