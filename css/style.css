@@ -90,8 +90,7 @@ margin: auto;
 }
 
 .item {
-	padding-top: 47px;
-position: relative;
+	padding: 10px 20px;
 }
 .item-content{
 	margin-right: auto;
