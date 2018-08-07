@@ -49,9 +49,15 @@ background-color: #f6f6f6;
     background-color: transparent;
 }
 #experience {
-	background-color: #f7f7f7;
-}
 
+}
+#navigation-toggle, .sidr, #sidr-close {
+    display: none;
+}
+#navigation-toggle {
+    color: #fff !important;
+    background-color: #219dd2 !important;
+}
 #skills {
 	background-color: #f7f7f7;
 }
