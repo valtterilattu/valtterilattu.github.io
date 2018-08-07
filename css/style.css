@@ -56,7 +56,7 @@ background-color: #f6f6f6;
 }
 #navigation-toggle {
     color: #fff !important;
-    background-color: #219dd2 !important;
+    background-color: #aa5736 !important;
 }
 #skills {
 	background-color: #f7f7f7;
@@ -215,5 +215,9 @@ border: solid 3px #dfdfdf;
 
 #navigation {
     display: none !important;
+}
+
+.navbar-fixed.scrolled {
+    height: 80px;
 }
 }
