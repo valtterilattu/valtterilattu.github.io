@@ -90,15 +90,14 @@ margin: auto;
 }
 
 .item {
-	margin-bottom: 5%;
-display: flex;
+	padding-top: 47px;
+position: relative;
 }
 .item-content{
 	margin-right: auto;
 }
 .item-time {
-	min-width: 18%;
-	text-align: right;
+	
 }
 .item-header{
 	margin: 0;
