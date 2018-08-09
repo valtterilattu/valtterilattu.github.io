@@ -36,6 +36,9 @@ margin-bottom: auto;
     font-size: 13px;
 color: #ddd !important;
 }
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #ddd;
+}
 .navbar-nav.scrolled > li > a {
 }
 .footer {
