@@ -45,6 +45,17 @@ background-color: #f6f6f6;
   border-bottom: 1px solid #f0f0f0;
   transition: background-color 200ms linear;
 }
+.navbar {
+    margin: 15px;
+    font-family:'Raleway', sans-serif;
+    background:#444444;
+}
+.navbar-inverse .navbar-nav>.active>a {
+    background:#000000;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #F2DEDE;
+}
 .nav-wrapper .nav > li > a:hover, .nav-wrapper .nav > li > a.active {
     background-color: transparent;
 }
