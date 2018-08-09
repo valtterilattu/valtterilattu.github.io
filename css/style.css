@@ -25,12 +25,18 @@ margin-bottom: auto;
 .name {
 	text-align: center;
 }
-
-.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
+.navbar-inverse {
+    background-color: #222;
+    border-color: #080808;
+    border: unset;
+}
+.navbar-inverse .navbar-nav > li > a:focus {
     position: relative;
-    font-size: 13px;
-    color: #ddd;
     text-transform: uppercase;
+    background-color: transparent;
+    font-size: 13px;
+font-weight: 700;
+color: #ddd !important;
 }
 .navbar-nav.scrolled > li > a {
 	color: #000;
